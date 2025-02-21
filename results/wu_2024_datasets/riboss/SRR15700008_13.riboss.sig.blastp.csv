@@ -256,7 +256,7 @@ AT1G09800.1,uORF,ATG,ATG,"[66, 210]",uORF,"[0.0, 0.0, 0.0]","[398, 1517]",mORF,"
 MWAIGPHDINSIFKGRKPTKIACYLGFRESPMRCTTARAWLIPSTNS",KAI9394530,hypothetical protein POPTR_005G106933v4 [Populus trichocarpa],gb|KAI9394530.1|,gb|KAI9394530.1| hypothetical protein POPTR_005G106933v4 [Populus trichocarpa],94.0,6.19895e-06,50.447,WANGSHDIKFIFLGGGSITVACYWGCRSSPLRCTKAMAWRTPPT,41.0,84.0,WAIGPHDINSIFKGRKPTKIACYLGFRESPMRCTTARAWLIPST,2.0,45.0,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT1G14710.1,uORF,ATG,ATG,"[350, 365]",uORF,"[108.823, 0.0, 0.0]","[446, 2252]",mORF,"[0.830714, 0.0, 0.0]","[array([[  148,     0,     0],
        [10707,   484,   130]]), array([[  148,     1],
-       [10707,   614]])]",8.486464592514695,ChiSquare,"ChiSquareResult(statistic=16.39548751994453, adjusted_pvalue=0.0007784527826085941, adjusted_bootstrap_pvalue=0.010328824141519252, adjusted_residuals=array([[ 2.91219539, -2.57024125, -1.31109915],
+       [10707,   614]])]",8.486464592514695,ChiSquare,"ChiSquareResult(statistic=16.39548751994453, adjusted_pvalue=0.0007784527826085941, adjusted_bootstrap_pvalue=0.010415529905561384, adjusted_residuals=array([[ 2.91219539, -2.57024125, -1.31109915],
        [-2.91219539,  2.57024125,  1.31109915]]), adjusted_posthoc_pvalues=[0.00730303831134966, 0.00730303831134966])",ATGACTTGTGTTTGA,MTCV,AT1G14710.1__350-365,">AT1G14710.1__350-365
 MTCV",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT1G20900.1,uORF,ATG,ATG,"[282, 291]",uORF,"[69.0, 0.0, 0.0]","[468, 1404]",mORF,"[1.0, 1.0, 0.0]","[array([[ 69,   0,   0],
@@ -266,12 +266,12 @@ AT1G20900.1,uORF,ATG,ATG,"[282, 291]",uORF,"[69.0, 0.0, 0.0]","[468, 1404]",mORF
 ML",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT1G35320.1,dORF,ATG,ATG,"[777, 813]",dORF,"[32.2479, 1.79155, 0.0]","[0, 468]",mORF,"[0.0, 0.0, 0.0]","[array([[47,  4,  0],
        [37,  9,  9]]), array([[47,  4],
-       [37, 19]])]",5.937947870744492,ChiSquare,"ChiSquareResult(statistic=15.492514910959457, adjusted_pvalue=0.0011796541715578316, adjusted_bootstrap_pvalue=0.00792389568919638, adjusted_residuals=array([[ 3.15639204, -1.33619933, -3.01989653],
+       [37, 19]])]",5.937947870744492,ChiSquare,"ChiSquareResult(statistic=15.492514910959457, adjusted_pvalue=0.0011796541715578316, adjusted_bootstrap_pvalue=0.021767543859649123, adjusted_residuals=array([[ 3.15639204, -1.33619933, -3.01989653],
        [-3.15639204,  1.33619933,  3.01989653]]), adjusted_posthoc_pvalues=[0.0034097199409229735, 0.0034097199409229735])",ATGGTGTATTTTGGAAACCTCAGATTTATTTTCTAA,MVYFGNLRFIF,AT1G35320.1__777-813,">AT1G35320.1__777-813
 MVYFGNLRFIF",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT1G50440.1,uORF,ATG,ATG,"[72, 87]",uORF,"[4.68351, 0.0, 0.0]","[236, 989]",mORF,"[0.0, 0.585438, 0.0]","[array([[ 33,   2,   0],
        [194,  84,  15]]), array([[ 33,   2],
-       [194, 100]])]",8.4698266637552,ChiSquare,"ChiSquareResult(statistic=15.534646715953922, adjusted_pvalue=0.0011588862166811262, adjusted_bootstrap_pvalue=0.00792389568919638, adjusted_residuals=array([[ 3.40045584, -2.9182241 , -1.37028402],
+       [194, 100]])]",8.4698266637552,ChiSquare,"ChiSquareResult(statistic=15.534646715953922, adjusted_pvalue=0.0011588862166811262, adjusted_bootstrap_pvalue=0.015138790035587189, adjusted_residuals=array([[ 3.40045584, -2.9182241 , -1.37028402],
        [-3.40045584,  2.9182241 ,  1.37028402]]), adjusted_posthoc_pvalues=[0.0015141899601515566, 0.0015141899601515566])",ATGAATCGAGACTAA,MNRD,AT1G50440.1__72-87,">AT1G50440.1__72-87
 MNRD",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT1G53887.1,uORF,ATG,ATG,"[304, 388]",uORF,"[24.0, 0.0, 0.0]","[432, 528]",mORF,"[2.0, 0.0, 0.0]","[array([[38,  0,  0],
@@ -286,7 +286,7 @@ AT1G71980.1,uORF,ATG,ATG,"[422, 449]",uORF,"[0.0, 0.0, 0.0]","[547, 1894]",mORF,
 MEADVSIS",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT2G32070.1,uORF,ATG,ATG,"[188, 215]",uORF,"[0.0, 0.0, 0.0]","[270, 1098]",mORF,"[4.0, 0.0, 9.0]","[array([[ 118,    1,    0],
        [3529,  172,  268]]), array([[ 118,    1],
-       [3529,  440]])]",14.708540868809795,ChiSquare,"ChiSquareResult(statistic=22.082270165129252, adjusted_pvalue=5.489993742232125e-05, adjusted_bootstrap_pvalue=0.0, adjusted_residuals=array([[ 3.54992219, -1.86513427, -2.93240594],
+       [3529,  440]])]",14.708540868809795,ChiSquare,"ChiSquareResult(statistic=22.082270165129252, adjusted_pvalue=5.489993742232125e-05, adjusted_bootstrap_pvalue=0.0053916349809885935, adjusted_residuals=array([[ 3.54992219, -1.86513427, -2.93240594],
        [-3.54992219,  1.86513427,  2.93240594]]), adjusted_posthoc_pvalues=[0.0008987158736171912, 0.0008987158736171912])",ATGAAACCAGATCGGATCTTGCTCTAG,MKPDRILL,AT2G32070.1__188-215,">AT2G32070.1__188-215
 MKPDRILL",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT2G37630.1,uORF,ATG,ATG,"[150, 201]",uORF,"[93.0, 5.0, 1.0]","[250, 1354]",mORF,"[0.0, 0.0, 0.0]","[array([[203,   7,   3],
@@ -296,7 +296,7 @@ AT2G37630.1,uORF,ATG,ATG,"[150, 201]",uORF,"[93.0, 5.0, 1.0]","[250, 1354]",mORF
 MEVALEFGIIYLFNII",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT2G40730.1,uORF,ATG,ATG,"[100, 133]",uORF,"[575.0, 7.0, 0.0]","[236, 2633]",mORF,"[2.0, 0.0, 0.0]","[array([[  624,    14,     0],
        [11776,   551,   103]]), array([[  624,    14],
-       [11776,   654]])]",2.475229498640841,ChiSquare,"ChiSquareResult(statistic=19.42658692324555, adjusted_pvalue=0.00018983778317380095, adjusted_bootstrap_pvalue=0.0, adjusted_residuals=array([[ 3.43068068, -2.71125094, -2.30840332],
+       [11776,   654]])]",2.475229498640841,ChiSquare,"ChiSquareResult(statistic=19.42658692324555, adjusted_pvalue=0.00018983778317380095, adjusted_bootstrap_pvalue=0.0028279202279202277, adjusted_residuals=array([[ 3.43068068, -2.71125094, -2.30840332],
        [-3.43068068,  2.71125094,  2.30840332]]), adjusted_posthoc_pvalues=[0.0013631696400482273, 0.0013631696400482273])",ATGCAGATTGAAGAAGAAGGAGAAGAATCATAA,MQIEEEGEES,AT2G40730.1__100-133,">AT2G40730.1__100-133
 MQIEEEGEES",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT2G41230.1,dORF,ATG,ATG,"[380, 524]",dORF,"[0.0, 0.0, 0.0]","[72, 339]",mORF,"[1.0, 0.0, 0.0]","[array([[ 41,   0,   0],
@@ -306,27 +306,32 @@ AT2G41230.1,dORF,ATG,ATG,"[380, 524]",dORF,"[0.0, 0.0, 0.0]","[72, 339]",mORF,"[
 MHYTNMSNCVSMCMLFRSRLRAFSFSFVQVRSCHVIDLRVFLFKDFV",AAC78548,unknown protein [Arabidopsis thaliana],gb|AAC78548.1|,gb|AAC78548.1| unknown protein [Arabidopsis thaliana],61.0,5.85538e-24,95.1301,MHYTNMSNCVSMCMLFRSRLRAFSFSFVQVRSCHVIDLRVFLFKDFV,15.0,61.0,MHYTNMSNCVSMCMLFRSRLRAFSFSFVQVRSCHVIDLRVFLFKDFV,1.0,47.0,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT2G42030.1,uORF,ATG,ATG,"[375, 465]",uORF,"[92.0, 0.0, 0.0]","[654, 1932]",mORF,"[3.0, 0.0, 0.0]","[array([[ 233,    3,    1],
        [1985,  111,   26]]), array([[ 233,    4],
-       [1985,  137]])]",4.018826242126817,ChiSquare,"ChiSquareResult(statistic=11.602957778486624, adjusted_pvalue=0.007047228369401698, adjusted_bootstrap_pvalue=0.040866422689844466, adjusted_residuals=array([[ 2.93693321, -2.69962501, -1.10268716],
+       [1985,  137]])]",4.018826242126817,ChiSquare,"ChiSquareResult(statistic=11.602957778486624, adjusted_pvalue=0.007047228369401698, adjusted_bootstrap_pvalue=0.044853140533212835, adjusted_residuals=array([[ 2.93693321, -2.69962501, -1.10268716],
        [-2.93693321,  2.69962501,  1.10268716]]), adjusted_posthoc_pvalues=[0.006771739456841809, 0.006771739456841809])",ATGTTCCAGACTTCTCTTACGCTTTCCTTGCAAAATCTGCCTCAATTTTGGATTGAAGACAAGAGCTTGAGGCTTTTTCTCCAATCTTAA,MFQTSLTLSLQNLPQFWIEDKSLRLFLQS,AT2G42030.1__375-465,">AT2G42030.1__375-465
 MFQTSLTLSLQNLPQFWIEDKSLRLFLQS",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT3G25660.1,uORF,ATG,ATG,"[145, 157]",uORF,"[467.0, 5.0, 0.0]","[179, 1793]",mORF,"[1.0, 0.0, 0.0]","[array([[ 506,   10,    6],
        [8820,  477,   78]]), array([[ 506,   16],
-       [8820,  555]])]",1.9899028419942684,ChiSquare,"ChiSquareResult(statistic=13.987207715993431, adjusted_pvalue=0.0023716003597429765, adjusted_bootstrap_pvalue=0.005432950191570881, adjusted_residuals=array([[ 2.72265509, -3.26126754,  0.76943804],
+       [8820,  555]])]",1.9899028419942684,ChiSquare,"ChiSquareResult(statistic=13.987207715993431, adjusted_pvalue=0.0023716003597429765, adjusted_bootstrap_pvalue=0.019548990645002463, adjusted_residuals=array([[ 2.72265509, -3.26126754,  0.76943804],
        [-2.72265509,  3.26126754, -0.76943804]]), adjusted_posthoc_pvalues=[0.012579336019561831, 0.012579336019561831])",ATGATTCAGTGA,MIQ,AT3G25660.1__145-157,">AT3G25660.1__145-157
 MIQ",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT3G27390.1,uORF,ATG,ATG,"[229, 244]",uORF,"[87.5116, 0.0, 0.0]","[281, 2048]",mORF,"[7.52788, 4.70493, 0.0]","[array([[  99,    0,    0],
        [8545,  677,   66]]), array([[  99,    1],
-       [8545,  744]])]",8.618896205688602,ChiSquare,"ChiSquareResult(statistic=16.417552432600473, adjusted_pvalue=0.0007703506835253611, adjusted_bootstrap_pvalue=0.005432950191570881, adjusted_residuals=array([[ 2.93262769, -2.78872159, -0.84170638],
+       [8545,  744]])]",8.618896205688602,ChiSquare,"ChiSquareResult(statistic=16.417552432600473, adjusted_pvalue=0.0007703506835253611, adjusted_bootstrap_pvalue=0.0028279202279202277, adjusted_residuals=array([[ 2.93262769, -2.78872159, -0.84170638],
        [-2.93262769,  2.78872159,  0.84170638]]), adjusted_posthoc_pvalues=[0.006853317401860503, 0.006853317401860503])",ATGGGTTTGTGTTAA,MGLC,AT3G27390.1__229-244,">AT3G27390.1__229-244
 MGLC",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
+AT3G59710.2,dORF,ATG,ATG,"[1278, 1290]",dORF,"[72.0, 0.0, 0.0]","[40, 1006]",mORF,"[0.0, 0.0, 0.0]","[array([[ 74,   1,   0],
+       [165,  21,   3]]), array([[ 74,   1],
+       [165,  24]])]",10.708147515285198,ChiSquare,"ChiSquareResult(statistic=11.17567452825483, adjusted_pvalue=0.00854511370217953, adjusted_bootstrap_pvalue=0.044853140533212835, adjusted_residuals=array([[ 2.84424508, -2.59229628, -1.09734216],
+       [-2.84424508,  2.59229628,  1.09734216]]), adjusted_posthoc_pvalues=[0.0089123372084016, 0.0089123372084016])",ATGGCTTTGTAG,MAL,AT3G59710.2__1278-1290,">AT3G59710.2__1278-1290
+MAL",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT4G18390.1,uORF,ATG,ATG,"[247, 271]",uORF,"[62.0, 0.0, 0.0]","[509, 1607]",mORF,"[0.0, 0.0, 0.0]","[array([[ 71,   0,   0],
        [675,  46,  19]]), array([[ 71,   1],
-       [675,  65]])]",6.8286591465898265,ChiSquare,"ChiSquareResult(statistic=12.440045365754305, adjusted_pvalue=0.004797084585184216, adjusted_bootstrap_pvalue=0.03671197411003237, adjusted_residuals=array([[ 2.60382029, -2.1630768 , -1.36627446],
+       [675,  65]])]",6.8286591465898265,ChiSquare,"ChiSquareResult(statistic=12.440045365754305, adjusted_pvalue=0.004797084585184216, adjusted_bootstrap_pvalue=0.044853140533212835, adjusted_residuals=array([[ 2.60382029, -2.1630768 , -1.36627446],
        [-2.60382029,  2.1630768 ,  1.36627446]]), adjusted_posthoc_pvalues=[0.017490227376172833, 0.017490227376172833])",ATGGTGAAATATCAAAAACCCTAA,MVKYQKP,AT4G18390.1__247-271,">AT4G18390.1__247-271
 MVKYQKP",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT4G18820.1,uORF,ATG,ATG,"[685, 754]",uORF,"[0.0, 0.0, 0.0]","[758, 4052]",mORF,"[4.0, 0.0, 0.0]","[array([[ 278,    2,    1],
        [2292,  116,   22]]), array([[ 278,    3],
-       [2292,  138]])]",5.577474680653339,ChiSquare,"ChiSquareResult(statistic=15.856936585230873, adjusted_pvalue=0.000999082184569818, adjusted_bootstrap_pvalue=0.00792389568919638, adjusted_residuals=array([[ 3.29592576, -3.15943939, -0.95080781],
+       [2292,  138]])]",5.577474680653339,ChiSquare,"ChiSquareResult(statistic=15.856936585230873, adjusted_pvalue=0.000999082184569818, adjusted_bootstrap_pvalue=0.007979099678456591, adjusted_residuals=array([[ 3.29592576, -3.15943939, -0.95080781],
        [-3.29592576,  3.15943939,  0.95080781]]), adjusted_posthoc_pvalues=[0.002146649248343495, 0.002146649248343495])",ATGAGATACAATTCGATTTGGTACTTATGCAAGATTCCGAGGAGGAAAGAGATGATATTTTTCTGCTGA,MRYNSIWYLCKIPRRKEMIFFC,AT4G18820.1__685-754,">AT4G18820.1__685-754
 MRYNSIWYLCKIPRRKEMIFFC",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT4G26570.1,uORF,ATG,ATG,"[281, 308]",uORF,"[164.67, 0.0, 0.0]","[323, 1004]",mORF,"[1.9373, 25.1849, 1.9373]","[array([[ 190,    6,    0],
@@ -346,12 +351,12 @@ AT5G02480.1,uORF,ATG,ATG,"[636, 687]",uORF,"[1.0, 0.0, 0.0]","[716, 2243]",mORF,
 MWVNWEIWDLGDLVVD",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G05610.2,uORF,ATG,ATG,"[61, 85]",uORF,"[130.0, 0.0, 0.0]","[165, 891]",mORF,"[66.7015, 0.0, 0.0]","[array([[ 145,    0,    0],
        [3849,  236,   20]]), array([[ 145,    0],
-       [3849,  257]])]",inf,ChiSquare,"ChiSquareResult(statistic=18.34119994848359, adjusted_pvalue=0.0003141242736904502, adjusted_bootstrap_pvalue=0.0, adjusted_residuals=array([[ 3.10197175, -2.970908  , -0.84249377],
+       [3849,  257]])]",inf,ChiSquare,"ChiSquareResult(statistic=18.34119994848359, adjusted_pvalue=0.0003141242736904502, adjusted_bootstrap_pvalue=0.0028279202279202277, adjusted_residuals=array([[ 3.10197175, -2.970908  , -0.84249377],
        [-3.10197175,  2.970908  ,  0.84249377]]), adjusted_posthoc_pvalues=[0.00406505659171138, 0.00406505659171138])",ATGCAGACCTCAATCCATCTCTAA,MQTSIHL,AT5G05610.2__61-85,">AT5G05610.2__61-85
 MQTSIHL",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G10790.1,uORF,ATG,ATG,"[185, 212]",uORF,"[22.0, 0.0, 0.0]","[357, 2031]",mORF,"[0.0, 0.0, 0.0]","[array([[  71,    2,    0],
        [1010,  218,   13]]), array([[  71,    2],
-       [1010,  232]])]",8.147641686347475,ChiSquare,"ChiSquareResult(statistic=17.186040173310882, adjusted_pvalue=0.0005390257934880844, adjusted_bootstrap_pvalue=0.0, adjusted_residuals=array([[ 3.45102925, -3.29739552, -0.87883278],
+       [1010,  232]])]",8.147641686347475,ChiSquare,"ChiSquareResult(statistic=17.186040173310882, adjusted_pvalue=0.0005390257934880844, adjusted_bootstrap_pvalue=0.0053916349809885935, adjusted_residuals=array([[ 3.45102925, -3.29739552, -0.87883278],
        [-3.45102925,  3.29739552,  0.87883278]]), adjusted_posthoc_pvalues=[0.0012678876587811504, 0.0012678876587811504])",ATGATGACTCTTAACACGCTAACCTGA,MMTLNTLT,AT5G10790.1__185-212,">AT5G10790.1__185-212
 MMTLNTLT",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G16650.1,uORF,ATG,ATG,"[280, 337]",uORF,"[29.6107, 0.0, 1.91037]","[323, 710]",mORF,"[25.79, 0.0, 16.2381]","[array([[246,  30,   1],
@@ -361,17 +366,17 @@ AT5G16650.1,uORF,ATG,ATG,"[280, 337]",uORF,"[29.6107, 0.0, 1.91037]","[323, 710]
 MMCEEILPLFVSVSDGRQ",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G26622.1,uORF,ATG,ATG,"[149, 320]",uORF,"[1.0, 0.0, 0.0]","[558, 1446]",mORF,"[0.0, 0.0, 0.0]","[array([[47,  3,  4],
        [79, 13, 57]]), array([[47,  7],
-       [79, 70]])]",5.902796532698858,ChiSquare,"ChiSquareResult(statistic=23.748051896329134, adjusted_pvalue=2.552589819008e-05, adjusted_bootstrap_pvalue=0.0, adjusted_residuals=array([[ 4.41369346, -0.74048692, -4.2359487 ],
+       [79, 70]])]",5.902796532698858,ChiSquare,"ChiSquareResult(statistic=23.748051896329134, adjusted_pvalue=2.552589819008e-05, adjusted_bootstrap_pvalue=0.0028279202279202277, adjusted_residuals=array([[ 4.41369346, -0.74048692, -4.2359487 ],
        [-4.41369346,  0.74048692,  4.2359487 ]]), adjusted_posthoc_pvalues=[2.8254852244437637e-05, 2.8254852244437637e-05])",ATGGAGCTCGACTGTTCTCTCATCTCTTCAACCTCTGTTAACGATTCTCCTGCTGTTTTGGCACCCCGAAGAGCCAATCCTTACCAATTATCCCTTATCCTTCGAAGCTGCAACGTATGGGTTTGCTCTTCGCAGATCTATAAAGTTTGGTACGCTCTCGACTCCCTCTGA,MELDCSLISSTSVNDSPAVLAPRRANPYQLSLILRSCNVWVCSSQIYKVWYALDSL,AT5G26622.1__149-320,">AT5G26622.1__149-320
 MELDCSLISSTSVNDSPAVLAPRRANPYQLSLILRSCNVWVCSSQIYKVWYALDSL",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G53140.1,uORF,ATG,ATG,"[61, 193]",uORF,"[0.0, 0.0, 0.0]","[446, 1709]",mORF,"[69.9036, 3.99449, 0.0]","[array([[ 418,   15,    0],
        [9188,  424,  198]]), array([[ 418,   16],
-       [9188,  623]])]",1.7713486244874672,ChiSquare,"ChiSquareResult(statistic=18.226990368030073, adjusted_pvalue=0.0003305735492781526, adjusted_bootstrap_pvalue=0.00792389568919638, adjusted_residuals=array([[ 2.42538133, -0.86258803, -2.98524965],
+       [9188,  623]])]",1.7713486244874672,ChiSquare,"ChiSquareResult(statistic=18.226990368030073, adjusted_pvalue=0.0003305735492781526, adjusted_bootstrap_pvalue=0.007979099678456591, adjusted_residuals=array([[ 2.42538133, -0.86258803, -2.98524965],
        [-2.42538133,  0.86258803,  2.98524965]]), adjusted_posthoc_pvalues=[0.02795423838495695, 0.02795423838495695])",ATGACTAGTGCCACGTTGCCGCTTCTGTTCGGTGTCCTCTCTCTCTTTCACTACTCACCACCACTCTCTCTCTCTCTCCCTCCATCTCTCTTGGATTCTCTCTCAGATTCCATGGAAGCTCCAAAAAGCTGA,MTSATLPLLFGVLSLFHYSPPLSLSLPPSLLDSLSDSMEAPKS,AT5G53140.1__61-193,">AT5G53140.1__61-193
 MTSATLPLLFGVLSLFHYSPPLSLSLPPSLLDSLSDSMEAPKS",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G65630.1,uORF,ATG,ATG,"[1222, 1228]",uORF,"[93.0, 2.0, 2.0]","[1317, 3090]",mORF,"[0.0, 52.0, 0.0]","[array([[  93,    2,    2],
        [2256,  383,  133]]), array([[  93,    4],
-       [2256,  516]])]",5.316001342856901,ChiSquare,"ChiSquareResult(statistic=19.024180328911076, adjusted_pvalue=0.0002283916008761806, adjusted_bootstrap_pvalue=0.005432950191570881, adjusted_residuals=array([[ 3.64169147, -3.33856557, -1.25088507],
+       [2256,  516]])]",5.316001342856901,ChiSquare,"ChiSquareResult(statistic=19.024180328911076, adjusted_pvalue=0.0002283916008761806, adjusted_bootstrap_pvalue=0.0028279202279202277, adjusted_residuals=array([[ 3.64169147, -3.33856557, -1.25088507],
        [-3.64169147,  3.33856557,  1.25088507]]), adjusted_posthoc_pvalues=[0.0006413364988484947, 0.0006413364988484947])",ATGTAA,M,AT5G65630.1__1222-1228,">AT5G65630.1__1222-1228
 M",,,,,,,,,,,,,,../results/wu_2024_datasets/riboss/SRR15700008_13.riboss.sig.blastp.xml
 AT5G66950.1,uORF,ATG,ATG,"[213, 249]",uORF,"[210.0, 0.0, 0.0]","[538, 3151]",mORF,"[1.0, 0.0, 0.0]","[array([[ 259,    0,    0],
