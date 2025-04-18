@@ -1,6 +1,6 @@
 ## Use cases and benchmarking results for RIBOSS
 
-[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 
 [RIBOSS](https://github.com/lcscs12345/riboss) leverages ribosome profiling and RNA-seq data (with optional transcriptome assembly) to identify non-canonical ORFs in prokaryotes and eukaryotes. RIBOSS employs a unique comparative approach, assessing the translational potential of non-canonical ORFs relative to annotated ORFs, as described in our [preprint](https://doi.org/10.1101/2024.11.07.622529). 
