@@ -17,5 +17,6 @@ To visualise the non-canonical ORFs detected, the bigGenePred tracks can be uplo
 track type=bigGenePred name="sORFs" description="RIBOSS top hits" baseColorDefault=genomicCodons bigDataUrl=https://github.com/lcscs12345/riboss_paper/raw/refs/heads/main/results/styphimurium/riboss/ERR9130942_3.riboss.sig.sORF.bb
 ```
 
-
+### Citing us:
+- Lim, C. S., & Brown, C. M. (2024). RIBOSS detects novel translational events by combining long- and short-read transcriptome and translatome profiling. _Brief Bioinform_. DOI: [10.1093/bib/bbaf164](https://doi.org/10.1093/bib/bbaf164)
 
