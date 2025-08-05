@@ -7,7 +7,7 @@
 
 This repository provides Jupyter Notebooks demonstrating RIBOSS's functionality in various scenarios:
 
-*   **_Salmonella enterica_ serovar Typhimurium:** This [notebook](https://github.com/lcscs12345/riboss_paper/blob/main/jupyter_notebooks/styphimurium.ipynb) demonstrates the use of RIBOSS for analysing organisms with incomplete annotations, specifically missing transcription start/termination sites and intercistronic regions. It showcases how RIBOSS can be used to discover novel translational events in these contexts.
+*   **_Salmonella enterica_ serovar Typhimurium:** This [notebook](https://github.com/lcscs12345/riboss_paper/blob/main/jupyter_notebooks/styphimurium.ipynb) demonstrates the use of RIBOSS for analysing organisms with incomplete annotations, specifically missing transcription start/termination sites and intercistronic regions. It showcases how RIBOSS can be used to discover novel translational events in these contexts. Alignment files are available on [Zenodo](https://doi.org/10.5281/zenodo.13997373).
 
 *   **_Arabidopsis thaliana_:** This [notebook](https://github.com/lcscs12345/riboss_paper/blob/main/jupyter_notebooks/ribotricer-arabidopsis-wu_2024.ipynb) illustrates how to use RIBOSS with a complete reference transcriptome. It provides a typical use case for eukaryotes.
 
